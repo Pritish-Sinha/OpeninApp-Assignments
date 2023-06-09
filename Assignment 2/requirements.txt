@@ -1,0 +1,4 @@
+git+https://github.com/huggingface/transformers.git@main
+torch
+pillow == 8.4.0
+nltk == 3.6.7
